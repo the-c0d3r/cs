@@ -8,3 +8,10 @@ For more convenience, `cs` command is able to handle if you didn't type full fil
 This project is similar to what I did for java, [js compiler](https://github.com/the-c0d3r/js). 
 
 > Laziness is a virtue for a programmer.
+
+
+### Optional Symlink
+To make it accessible system wide, you can symlink the file js to the system path.
+
+    ln -s /path/to/js /usr/local/bin/js
+
